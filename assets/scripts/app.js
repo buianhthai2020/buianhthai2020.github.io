@@ -1,3 +1,3 @@
 document.addEventListener('DOMContentLoaded', () => {
-        console.log('hello worl')
+        return ('hello');
 })
