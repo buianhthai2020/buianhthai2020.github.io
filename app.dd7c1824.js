@@ -222,4 +222,4 @@ module.exports=require("./lib/axios");
 },{"@babel/runtime-corejs2/regenerator":"i9LV","@babel/runtime-corejs2/helpers/asyncToGenerator":"OYLD","axios":"dZBD"}],"ffN9":[function(require,module,exports) {
 "use strict";var e=u(require("@babel/runtime-corejs2/regenerator")),r=u(require("@babel/runtime-corejs2/helpers/asyncToGenerator")),n=u(require("./components/Header")),t=u(require("./components/User"));function u(e){return e&&e.__esModule?e:{default:e}}require("./scss/app.scss");var s=function(){var u=(0,r.default)(e.default.mark(function r(){return e.default.wrap(function(e){for(;;)switch(e.prev=e.next){case 0:return document.getElementById("header").innerHTML=(0,n.default)(),e.next=3,(0,t.default)();case 3:document.getElementById("user").innerHTML=e.sent;case 4:case"end":return e.stop()}},r)}));return function(){return u.apply(this,arguments)}}();s();
 },{"@babel/runtime-corejs2/regenerator":"i9LV","@babel/runtime-corejs2/helpers/asyncToGenerator":"OYLD","./components/Header":"FRKU","./components/User":"h4TH","./scss/app.scss":"tuDi"}]},{},["ffN9"], null)
-//# sourceMappingURL=/app.9bbb747a.js.map
+//# sourceMappingURL=/app.dd7c1824.js.map
